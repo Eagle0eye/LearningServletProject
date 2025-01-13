@@ -1,7 +1,3 @@
-Here is the updated README with the simplified servlet code and necessary documentation:
-
----
-
 # **Servlet and StudentDB Implementation**
 
 ## **Servlet Definition**
